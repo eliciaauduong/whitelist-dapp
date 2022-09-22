@@ -1,3 +1,1 @@
 # whitelist-dapp
-
- 0x1596F0AAbc938eD5622b6EBAdcfE122F3e93e10d
